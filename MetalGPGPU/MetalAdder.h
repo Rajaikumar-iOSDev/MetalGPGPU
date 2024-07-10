@@ -1,5 +1,4 @@
 //
-//  main.m
 //  MetalGPGPU
 //
 //  Created by Rajai Kumar on 07/07/24.
